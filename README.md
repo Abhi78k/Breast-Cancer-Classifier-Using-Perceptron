@@ -66,7 +66,7 @@ This project implements a simple perceptron from scratch to classify breast canc
 
 <img width="640" height="480" alt="perceptron1" src="https://github.com/user-attachments/assets/38ecf4bb-33c4-4bc2-b59c-2a35fa2218d4" />
 
-- Graph showing the division between Benign and Malignant:
+- Graph showing the boundary between Benign and Malignant:
 
 <img width="640" height="480" alt="perceptron2" src="https://github.com/user-attachments/assets/6fe3a7b8-9c98-4f06-a8da-40b0be6cb5ab" />
 
