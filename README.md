@@ -1,4 +1,4 @@
-# Perceptron Classifier on Breast Cancer Dataset
+# Perceptron Classifier on Breast Cancer
 
 This project implements a simple perceptron from scratch to classify breast cancer as malignant or benign using the Breast Cancer Wisconsin dataset. Only two features are used: `radius_mean` and `texture_mean`.
 
